@@ -1,0 +1,8 @@
+boto3
+moto
+pytest
+fastapi
+langchain
+openai
+uvicorn[standard]
+toolz
